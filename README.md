@@ -6,6 +6,9 @@ This guide outlines how to deploy a 3-tier architecture on AWS using Terraform. 
 
 ## Architecture Overview
 
+## Architectural Diagram
+![Alt text](https://github.com/Otumiky/3-tier-architecture/blob/main/project-root/3-tier%20Diagram%20natgatewayy.drawio.png)
+
 ### 1. **VPC Module**
 The VPC module creates the network infrastructure:
 - **Public Subnets** for the web tier (accessible from the internet).
